@@ -1,2 +1,2 @@
 # PROGRAMS
-These are my practice programm.
+These are my practice programs.
